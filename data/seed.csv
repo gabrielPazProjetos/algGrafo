@@ -1,0 +1,26 @@
+type,id_or_name,prop_key,prop_value
+Genre,Rock,,
+Genre,Pop,,
+Genre,MPB,,
+Genre,Sertanejo,,
+Artist,a1,nome,Banda Aurora
+Artist,a2,nome,Luna Gomes
+Artist,a3,nome,Trio Sertão
+Artist,a4,nome,Coro do Mar
+Track,t1,titulo,Estrelas na Janela
+Track,t1,duracao,210
+Track,t2,titulo,Noite Elétrica
+Track,t2,duracao,185
+Track,t3,titulo,Café com Vento
+Track,t3,duracao,242
+Track,t4,titulo,Ruas de Recife
+Track,t4,duracao,200
+Track,t5,titulo,Maré Alta
+Track,t5,duracao,230
+Track,t6,titulo,Serra e Céu
+Track,t6,duracao,215
+Track,t7,titulo,Horizonte Azul
+Track,t7,duracao,205
+User,u1,nome,Ana
+User,u1,pais,BR
+User,u2,nome,Bruno
