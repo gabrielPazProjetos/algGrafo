@@ -21,6 +21,9 @@ Explicabilidade (caminho que justifica a recomendação)
 -- Documentação:
 docs/modelagem.md → descreve a modelagem
 docs/raciocinio-de-design.md → explica as decisões de design
+
+--- Nota
+Para gerar o grafico Neo4j, basta exportar o modelo presente neste repositorio.
 docs/exemplos-de-resultados.md → mostra saídas das consultas
 
 --- Exemplos de consultas -- Recomendação por gênero -- Sugere faixas em gêneros que o usuário mais escuta:
