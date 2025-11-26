@@ -1,0 +1,11 @@
+CREATE CONSTRAINT user_id_unique IF NOT EXISTS
+FOR (u:User) REQUIRE u.userId IS UNIQUE;
+
+CREATE CONSTRAINT artist_id_unique IF NOT EXISTS
+FOR (a:Artist) REQUIRE a.artistId IS UNIQUE;
+
+CREATE CONSTRAINT track_id_unique IF NOT EXISTS
+FOR (t:Track) REQUIRE t.trackId IS UNIQUE;
+
+CREATE CONSTRAINT genre_name_unique IF NOT EXISTS
+FOR (g:Genre) REQUIRE g.nome IS UNIQUE;
