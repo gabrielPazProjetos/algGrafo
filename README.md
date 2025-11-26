@@ -1,4 +1,4 @@
---- Algoritmo de Recomendação de Músicas com Grafos (Neo4j + Cypher) Este projeto foi desenvolvido com o objetivo é construir um sistema de recomendação que utiliza grafos para identificar padrões de escuta e sugerir novas faixas aos usuários.
+--- Algoritmo de Recomendação de Músicas com Grafos (Neo4j + Cypher) Este projeto foi desenvolvido com o objetivo de construir um sistema de recomendação que utiliza grafos para identificar padrões de escuta e sugerir novas faixas aos usuários.
 --- O que o projeto cobre -
 -- Modelagem em grafos:
 
